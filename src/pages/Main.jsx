@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import mainlogo from '../assets/ShoppingLogo.png'
+import mainlogo from '../assets/clink-markt.png'
 
 const Main = () => {
 
