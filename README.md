@@ -54,54 +54,47 @@ Epic User Story: Developing a Shopping Cart Application 🎖️
 
 ## User Stories:
 
-1️-) Listing Products:
-  - Create components to display existing products.
-  - Fetch and list products from the mock API.
-  - Style the product listing with CSS.
+1️-) Displaying Products:
+  - Develop elements to showcase existing product
+  - Retrieve and list items from the Mock API
+  - Customize the presentation of products using CSS
 
-2-) Adding Products 
-  - Develop components for users to add new products.
-  - Implement functions to save new products to the mock API.
-  - Perform validation on the product addition form.
+2-) Adding New Products 
+  - Create components enabling users to introduce new products
+  - Integrate mechanisms to store new products within the Mock API
+  - Conduct validation checks on the product addition form.
 
-3-) Shopping Cart Operations 
-  - Create components for users to view their shopping carts.
-  - Fetch and list products from the mock API for the shopping cart.
-  - Implement functions to update and delete product quantities in the cart.
-  - Design and style the cart page layout.
+3-) Managing Shopping Cart Activities
+  - Construct elements allowing users to observe their shopping carts
+  - Retrieve and exhibit products from the Mock API specifically for the shopping cart
+  - Implement functions to modify and eliminate quantities of products in the cart
 
-4-) Interface Design and Enhancements
-  - Design the overall user interface and improve usability.
-  - Make necessary corrections and enhancements based on user feedback.
-  - Ensure responsive design for mobile devices.
+4-) Interface Design and Improvements
+  - Craft the holistic user interface and enhance usability.
+  - Apply necessary adjustments and advancements based on user input
+  - Ensure adaptability to mobile devices through responsive design
 
-5️-) Creating About Page
-  - Design and implement the layout for the About page.
-  - Add relevant content such as information about yourself.
-  - Style the About page with CSS.
+5️-) Creating an About Section
+  - Develop and execute the arrangement for the About section
+  - Incorporate pertinent content such as personal information
+  - Stylize the About section using CSS styles
 
-6️-) Creating Main Page
+6️-) Establishing the Primary Page
+  - Arrange the foundational layout for the main landing page
+  - Integrate navigation links to facilitate movement to other sections
+  - Design and introduce any supplementary functionalities on the primary page
 
-  - Set up the main landing page layout.
-  - Include navigation links to other pages.
-  - Design and implement any additional features on the main page.
 
-7️-) Implementing New Product Page
+7️-) Enabling a New Product Entry Page
+  - Formulate a structure for users to input details of new product
+  - Implement validation measures within the new productform
+  - Enable functionality to submit data pertaining to new product
 
-  - Develop a form for users to input new product details.
-  - Add validation to the new product form.
-  - Implement functionality to submit new product data.
+8️-) Deploying a Product Listing Page
+  - Showcase a compilation of available products fetched from the Mock API
+  - Introduce options for filtering or sorting within the product list
+  - Incorporate buttons or hyperlinks for accessing detailed information or making updates to products
 
-8️-) Implementing Product List Page
-
-  - Display a list of available products fetched from the mock API.
-  - Add filtering or sorting options to the product list.
-  - Include buttons or links to view details or update products.
-
-9️-) Implementing Update Product Page
-  - Create a form pre-filled with selected product details.
-  - Allow users to update product on shopping cart.
-  - Implement functionality to update product data.
 
 Additional Requirement: ➕
 
