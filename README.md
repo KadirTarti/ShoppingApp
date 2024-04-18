@@ -19,10 +19,14 @@ Shopping Cart (folder)
 SOLUTION
 ├── public
 │     └── index.html
+│     ├── manifest.json
+│     ├── favicon.ico
+│     ├── logo192.png
+│     ├── logo512.png
 ├── src
 │   ├── App.js
+│   ├── assests
 │   ├── components
-│   │    ├── CardTotal.jsx
 │   │    ├── Navbar.jsx
 │   │    ├── ProductCard.jsx
 │   │    └── ProductForm.jsx
@@ -34,7 +38,13 @@ SOLUTION
 │        ├── NewProduct.jsx
 │        ├── ProductList.jsx
 │        └── UpdateProduct.jsx
+│   ├── router
+│   │    └── AppRouter.jsx
+├── .gitignore
+├── LICENSE
+├── package-lock.json
 ├── package.json
+└── README.md
 └── yarn.lock
 
 ```
