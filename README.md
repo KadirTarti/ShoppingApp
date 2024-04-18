@@ -127,15 +127,13 @@ Build a Shopping Cart App using ReactJS.
 - Learning to fetch data from mock api and add data to api
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
+
+## Informaitonal video!
+How to use Mock API ? -> <a href="https://www.youtube.com/watch?v=i_Gvlp83GMk" target="_blank"> Watch the video! </a>
+
 ## MockApi 📦
+Go to the Mock API web page and start coding with the free API! -> <a href="https://mockapi.io/" target="_blank">MockApi</a>
 
-<a href="https://mockapi.io/" target="_blank">MockApi</a>
-
-
-## How do we create mockApi? Watch the video!
-
-<a href="https://www.youtube.com/watch?v=i_Gvlp83GMk" target="_blank">
- Watch the video </a>
 
 ## Contributing & Collaborate :muscle:
 All contributions from different perspectives greatly enrich my projects! Whether you have new project ideas or contributions to improve my current projects, all contributions are invaluable. Feel free to open a topic or submit a pull request with your suggested changes to start a dialogue about your thoughts. Every contribution plays a vital role in my progress. so thank you for being an integral part of my community!
