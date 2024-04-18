@@ -1,22 +1,20 @@
 
-# C-link E-markt
+# C-link E-markt 
 https://shopping-app-akt.netlify.app/
 
 ## Description
 
 Hi everyone! In this project, a single-page web application is designed where users can add new products to their shopping lists, store these products on a mock API and update them in their shopping carts. A user-friendly interface is aimed using React, and transition between pages is provided using React Router. There is also a 'New Product' tab that allows manual data entry into the API used in the project.
 
-## Outcome
+## Outcome 🎥
 
 ![ShoppingAppKlein1-ezgif com-crop](https://github.com/KadirTarti/KadirTarti/assets/150926891/2553b680-d23f-40ad-a8ca-3e6a5153d3b5)
 
-## Project Skeleton
+## Project Skeleton 👷
 
 ```
-Shopping Cart (folder)
+C-link E-markt (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
-SOLUTION
 ├── public
 │     └── index.html
 │     ├── manifest.json
@@ -105,7 +103,7 @@ User Stories:
   - Allow users to update product on shopping cart.
   - Implement functionality to update product data.
 
-Additional Requirement: 💥
+Additional Requirement: ➕
 
 The application should have a responsive design.
 
@@ -123,12 +121,12 @@ Build a Shopping Cart App using ReactJS.
 
 ### At the end of the project, we will be able to;
 
-- improve coding skills within HTML & CSS & JS & ReactJS.
-- Learning to fetch data from mock api and add data to api
-- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+⭐ improve coding skills within HTML & CSS & JS & ReactJS.
+⭐ Learning to fetch data from mock api and add data to api
+⭐ use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 
-## Informaitonal video!
+## Informaitonal video! ℹ️
 How to use Mock API ? -> <a href="https://www.youtube.com/watch?v=i_Gvlp83GMk" target="_blank"> Watch the video! </a>
 
 ## MockApi 📦
