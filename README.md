@@ -1,5 +1,6 @@
 
 # C-link E-markt
+https://shopping-app-akt.netlify.app/
 
 ## Description
 
@@ -7,7 +8,7 @@ Hi everyone! In this project, a single-page web application is designed where us
 
 ## Outcome
 
-https://shopping-app-akt.netlify.app/
+![ShoppingAppKlein1-ezgif com-crop](https://github.com/KadirTarti/KadirTarti/assets/150926891/2553b680-d23f-40ad-a8ca-3e6a5153d3b5)
 
 ## Project Skeleton
 
