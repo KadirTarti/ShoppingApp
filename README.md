@@ -1,11 +1,9 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
 
-# Shopping Cart
+# C-link E-markt
 
 ## Description
 
-Project aims to create a Shopping Cart App.
+Hi everyone! In this project, a single-page web application is designed where users can add new products to their shopping lists, store these products on a mock API and update them in their shopping carts. A user-friendly interface is aimed using React, and transition between pages is provided using React Router. There is also a 'New Product' tab that allows manual data entry into the API used in the project.
 
 ## Problem Statement
 
@@ -40,9 +38,68 @@ SOLUTION
 
 ```
 
-## Expected Outcome
+## Outcome
 
-![Shopping Cart](shopping-cart.gif)
+https://shopping-app-akt.netlify.app/
+
+Project Planning & Management
+Epic User Story: Developing a Shopping Cart Application 🎖️
+
+User Stories:
+
+1️-) Listing Products:
+  - Create components to display existing products.
+  - Fetch and list products from the mock API.
+  - Style the product listing with CSS.
+
+2-) Adding Products 
+  - Develop components for users to add new products.
+  - Implement functions to save new products to the mock API.
+  - Perform validation on the product addition form.
+
+3-) Shopping Cart Operations 
+  - Create components for users to view their shopping carts.
+  - Fetch and list products from the mock API for the shopping cart.
+  - Implement functions to update and delete product quantities in the cart.
+  - Design and style the cart page layout.
+
+4-) Interface Design and Enhancements
+  - Design the overall user interface and improve usability.
+  - Make necessary corrections and enhancements based on user feedback.
+  - Ensure responsive design for mobile devices.
+
+5️-) Creating About Page
+  - Design and implement the layout for the About page.
+  - Add relevant content such as information about yourself.
+  - Style the About page with CSS.
+
+6️-) Creating Main Page
+
+  - Set up the main landing page layout.
+  - Include navigation links to other pages.
+  - Design and implement any additional features on the main page.
+
+7️-) Implementing New Product Page
+
+  - Develop a form for users to input new product details.
+  - Add validation to the new product form.
+  - Implement functionality to submit new product data.
+
+8️-) Implementing Product List Page
+
+  - Display a list of available products fetched from the mock API.
+  - Add filtering or sorting options to the product list.
+  - Include buttons or links to view details or update products.
+
+9️-) Implementing Update Product Page
+  - Create a form pre-filled with selected product details.
+  - Allow users to update product on shopping cart.
+  - Implement functionality to update product data.
+
+Additional Requirement: 💥
+
+The application should have a responsive design.
+
 
 ## Objective
 
