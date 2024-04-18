@@ -133,6 +133,7 @@ Build a Shopping Cart App using ReactJS.
 
 
 ## How do we create mockApi? Watch the video!
+
 <a href="https://www.youtube.com/watch?v=i_Gvlp83GMk" target="_blank">
  Watch the video </a>
 
