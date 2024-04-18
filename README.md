@@ -52,7 +52,7 @@ C-link E-markt (folder)
 Project Planning & Management
 Epic User Story: Developing a Shopping Cart Application 🎖️
 
-User Stories:
+## User Stories:
 
 1️-) Listing Products:
   - Create components to display existing products.
