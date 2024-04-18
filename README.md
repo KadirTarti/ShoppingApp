@@ -116,42 +116,18 @@ Build a Shopping Cart App using ReactJS.
 
 ### At the end of the project, following topics are to be covered;
 
-- HTML
-
-- CSS
-
-- JS
-
+- HTML, CSS, JS
 - ReactJS
+- React Router & Hooks
+- Mock API
 
-### At the end of the project, students will be able to;
+### At the end of the project, we will be able to;
 
 - improve coding skills within HTML & CSS & JS & ReactJS.
-
+- Learning to fetch data from mock api and add data to api
 - use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
-## Steps to Solution
-
-- Step 1: Create React App using `npx create-react-app shopping-cart`
-
-- Step 2 : Install `"react-icons"` package to your `package.json` for icons or fontawesome cdn link paste to "public/index.html", install `axios` package and `react-router-dom`.
-
-- Step 3: Build Checkout Page App.
-
-- Step 4: You can use CSS frameworks like Bootstrap, Material UI etc.
-
-- Step 5: Push your application into your own public repo on Github
-
-- Step 6: Add project gif to your project and README.md file.
-
-## Notes
-
-- Watch the video and follow the steps to create an account and project on MockAPI.
-
-## Demo
-  <a href="https://shopping-cart-mockapi.vercel.app/" target="_blank">Shopping Cart</a>
-
-## MockApi
+## MockApi 📦
 
 <a href="https://mockapi.io/" target="_blank">MockApi</a>
 
@@ -160,6 +136,9 @@ Build a Shopping Cart App using ReactJS.
 <a href="https://www.youtube.com/watch?v=i_Gvlp83GMk" target="_blank">
  Watch the video
 </a>
+
+## Contributing & Collaborate :muscle:
+All contributions from different perspectives greatly enrich my projects! Whether you have new project ideas or contributions to improve my current projects, all contributions are invaluable. Feel free to open a topic or submit a pull request with your suggested changes to start a dialogue about your thoughts. Every contribution plays a vital role in my progress. so thank you for being an integral part of my community!
 
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
