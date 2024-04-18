@@ -122,7 +122,9 @@ Build a Shopping Cart App using ReactJS.
 ### At the end of the project, we will be able to;
 
 ⭐ improve coding skills within HTML & CSS & JS & ReactJS.
+
 ⭐ Learning to fetch data from mock api and add data to api
+
 ⭐ use git commands (push, pull, commit, add etc.) and Github as Version Control System.
 
 
