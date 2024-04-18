@@ -5,9 +5,9 @@
 
 Hi everyone! In this project, a single-page web application is designed where users can add new products to their shopping lists, store these products on a mock API and update them in their shopping carts. A user-friendly interface is aimed using React, and transition between pages is provided using React Router. There is also a 'New Product' tab that allows manual data entry into the API used in the project.
 
-## Problem Statement
+## Outcome
 
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
+https://shopping-app-akt.netlify.app/
 
 ## Project Skeleton
 
@@ -38,9 +38,7 @@ SOLUTION
 
 ```
 
-## Outcome
 
-https://shopping-app-akt.netlify.app/
 
 Project Planning & Management
 Epic User Story: Developing a Shopping Cart Application 🎖️
