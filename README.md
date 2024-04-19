@@ -101,7 +101,7 @@ Additional Requirement: ➕
 The application should have a responsive design.
 
 
-## Objective
+## Objective :
 
 Build a Shopping Cart App using ReactJS.
 
