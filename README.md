@@ -96,7 +96,7 @@ Epic User Story: Developing a Shopping Cart Application 🎖️
   - Incorporate buttons or hyperlinks for accessing detailed information or making updates to products
 
 
-Additional Requirement: ➕
+## Additional Requirement: ➕
 
 The application should have a responsive design.
 
