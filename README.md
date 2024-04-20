@@ -49,8 +49,9 @@ C-link E-markt (folder)
 
 
 
-Project Planning & Management
-Epic User Story: Developing a Shopping Cart Application 🎖️
+### Project Planning & Management 🗺️
+
+Epic User Story: Developing a Shopping Cart Application 🎖
 
 ## User Stories:
 
