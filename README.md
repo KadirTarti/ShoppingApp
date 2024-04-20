@@ -102,20 +102,14 @@ Epic User Story: Developing a Shopping Cart Application
 The application should have a responsive design.
 
 
-## Objective :
+## Objective 🔍
 
 Build a Shopping Cart App using ReactJS.
 
-### At the end of the project, following topics are to be covered;
-
-- HTML, CSS, JS
-- ReactJS
-- React Router & Hooks
-- Mock API
 
 ### At the end of the project, we will be able to;
 
-⭐ improve coding skills within HTML & CSS & JS & ReactJS.
+⭐ improve coding skills within HTML & CSS & ReactJS & React Router, React Hooks & Mock API
 
 ⭐ Learning to fetch data from mock api and add data to api
 
@@ -129,7 +123,7 @@ How to use Mock API ? -> <a href="https://www.youtube.com/watch?v=i_Gvlp83GMk" t
 Go to the Mock API web page and start coding with the free API! -> <a href="https://mockapi.io/" target="_blank">MockApi</a>
 
 
-## Contributing & Collaborate :muscle:
+## Contributing & Collaborate 💪
 All contributions from different perspectives greatly enrich my projects! Whether you have new project ideas or contributions to improve my current projects, all contributions are invaluable. Feel free to open a topic or submit a pull request with your suggested changes to start a dialogue about your thoughts. Every contribution plays a vital role in my progress. so thank you for being an integral part of my community!
 
 
