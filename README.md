@@ -2,7 +2,7 @@
 # C-link E-markt 
 https://shopping-app-akt.netlify.app/
 
-## Description
+## Description 🟢
 
 Hi everyone! In this project, a single-page web application is designed where users can add new products to their shopping lists, store these products on a mock API and update them in their shopping carts. A user-friendly interface is aimed using React, and transition between pages is provided using React Router. There is also a 'New Product' tab that allows manual data entry into the API used in the project.
 
