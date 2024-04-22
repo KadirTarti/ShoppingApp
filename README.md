@@ -13,7 +13,7 @@ Hi everyone! In this project, a single-page web application is designed where us
 ## Project Skeleton 👷
 
 ```
-C-link E-markt (folder)
+ShoppingApp (folder)
 |
 ├── public
 │     └── index.html
