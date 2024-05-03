@@ -127,4 +127,4 @@ Go to the Mock API web page and start coding with the free API! -> <a href="http
 All contributions from different perspectives greatly enrich my projects! Whether you have new project ideas or contributions to improve my current projects, all contributions are invaluable. Feel free to open a topic or submit a pull request with your suggested changes to start a dialogue about your thoughts. Every contribution plays a vital role in my progress. so thank you for being an integral part of my community!
 
 
-**<p align="center"> 💻*** Always improve yourself *** 💻</p>** 
+**<p align="center"> 💻 *Always improve yourself*  💻</p>** 
